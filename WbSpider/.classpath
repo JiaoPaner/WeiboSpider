@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="E:/Jsoup/jsoup-1.8.3.jar"/>
+	<classpathentry kind="lib" path="E:/mysql jdbc/mysql-connector-java-3.1.14/mysql-connector-java-3.1.14-bin.jar"/>
+	<classpathentry kind="lib" path="D:/AndroidOpenLibrary/okhttp-3.2.0.jar"/>
+	<classpathentry kind="lib" path="D:/AndroidOpenLibrary/okio-1.7.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
