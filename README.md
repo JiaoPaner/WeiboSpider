@@ -13,6 +13,8 @@ Email:jiaopaner@163.com
 
 首先在数据库t_userlist 表中添加一条你自己的微博账号信息或者其他作为初始数据 程序会从该账号开始抓取数据
 
+如http://weibo.com/u/3190836xxx/home  登录微博时 网址中u后面的数字就是该微博账号的ID 数据库中添加它作为初始的数据
+
 注意：spider包下的spider类中的cookies的值需要修改为你自己的微博测试账号模拟登陆时返回的cookie值
 
 最好注册微博小号进行模拟登陆抓数据  
