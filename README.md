@@ -102,7 +102,7 @@ CREATE TABLE `t_userinfo` (
   `email` varchar(255) default '保密',
   
   `qq` varchar(255) default '保密',
-  
+
   `tag` varchar(255) default '闲人一个' COMMENT '标签',
   
   PRIMARY KEY  (`id`)
