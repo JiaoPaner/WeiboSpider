@@ -7,7 +7,7 @@ Email:jiaopaner@163.com
 
 程序会对用户的关注列表的关注列表进行再次抓取,数据库中已抓取的不再抓取
 
-![image](http://pic25.nipic.com/20121112/5955207_224247025000_2.jpg)
+![image](http://a3.qpic.cn/psb?/9f72dd68-4a03-4651-9f2d-60315a7e474a/FOAjFSUJmaZ9asxVdIz7Zpa02Q3V41eZnQ8t06i0orA!/b/dA0BAAAAAAAA&bo=xAMvAgAAAAAFB84!&rf=viewer_4)
 
 用到的第三方库：Okhttp,okio,Jsoup   [运行项目前请下载并添加构建这些库]
 
