@@ -7,7 +7,13 @@ Email:jiaopaner@163.com
 
 程序会对用户的关注列表的关注列表进行再次抓取,数据库中已抓取的不再抓取
 
-![image](http://a3.qpic.cn/psb?/9f72dd68-4a03-4651-9f2d-60315a7e474a/FOAjFSUJmaZ9asxVdIz7Zpa02Q3V41eZnQ8t06i0orA!/b/dA0BAAAAAAAA&bo=xAMvAgAAAAAFB84!&rf=viewer_4)
+程序效果图
+
+![image](http://a3.qpic.cn/psb?/9f72dd68-4a03-4651-9f2d-60315a7e474a/k7JI94LbutdjTLmD6h2Qiqc.8H.cpvupIC6n53CDi6s!/b/dA0BAAAAAAAA&bo=xAMvAgAAAAAFB84!&rf=viewer_4)
+
+![image](http://a1.qpic.cn/psb?/9f72dd68-4a03-4651-9f2d-60315a7e474a/5tcygnDCgMfv*lxgsB1oRLrb8.81I.SL4XnjgAhZMog!/b/dHEBAAAAAAAA&bo=PQTrAQAAAAAFAPA!&rf=viewer_4)
+
+![image](http://a1.qpic.cn/psb?/9f72dd68-4a03-4651-9f2d-60315a7e474a/xzdfZd8r6I5dzMCSrKLUQaVSMsaqE38ziw1jvu4rPxE!/b/dHEBAAAAAAAA&bo=vgKpAQAAAAAFADc!&rf=viewer_4)
 
 用到的第三方库：Okhttp,okio,Jsoup   [运行项目前请下载并添加构建这些库]
 
